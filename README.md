@@ -1,2 +1,2 @@
 # report
-Paste page of sold stock and list them all on a spreadsheet.
+Paste page of sales and list them all on a spreadsheet.
